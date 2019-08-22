@@ -38,4 +38,4 @@
     
  ## Output
  
- <p> Output will be saved on output directory after ditecting object. <p>
+ <p> Output will be saved on output directory after detecting object. <p>
